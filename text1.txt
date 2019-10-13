@@ -4,3 +4,4 @@ Ovo je MilanStan 1.fajl 2.commit
 Ovo je mickey-stop 3.commit
 Ovo je mickey-stop 4.commit
 Ovo je MilanStan commit na novoj grani
+Ovo je 5.commit MilanStan na novog grani2 koja se samo pushuje
