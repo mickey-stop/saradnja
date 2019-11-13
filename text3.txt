@@ -1,3 +1,4 @@
 Ovo je mickey-stop 3.fajl 1.commit
 Obrisan višak fajlova
 Novi red na master
+Novi red master MilanStan
