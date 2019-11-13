@@ -1,2 +1,2 @@
 Ovo je mickey-stop 3.fajl 1.commit
-Ovo je mickey-stop promena na master-u
+Obrisan višak fajlova
