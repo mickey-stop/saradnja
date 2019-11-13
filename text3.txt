@@ -8,3 +8,4 @@ Novi pokusaj sa fetch
 Git reset
 Ovo je dodavanje u novagrana4 za novagrana5
 Ovo je dodavanje u novagrana5 za novagrana5
+Online izmena
