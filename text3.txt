@@ -6,3 +6,4 @@ Fetch prihvatanje
 Push test sa fetch
 Novi pokusaj sa fetch
 Git reset
+Ovo je dodavanje u novagrana4 za novagrana5
