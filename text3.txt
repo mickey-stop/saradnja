@@ -1,1 +1,2 @@
 Ovo je mickey-stop 3.fajl 1.commit
+Provera pull-a na novagrana2
