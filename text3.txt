@@ -1,6 +1,8 @@
 Ovo je mickey-stop 3.fajl 1.commit
 Ovo je commit na grani novagrana4 od mickey-stop
 Ovo je conflict na novagrana4
+Test za fetch
+Fetch prihvatanje
 Push test sa fetch
 Novi pokusaj sa fetch
 Git reset
