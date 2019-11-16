@@ -7,3 +7,4 @@ Ovo je MilanStan commit na novoj grani
 Ovo je 5.commit MilanStan na novog grani2 koja se samo pushuje
 Ovo je 6. commit za brisanje
 Ovo je 7. commit
+Ovo n. commit
